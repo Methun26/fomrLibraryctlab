@@ -1,0 +1,38 @@
+body{
+    background-image: linear-gradient(to top ,#0047AB,#DAF7A6);
+}
+form{
+    padding: 1cm;
+    align-items: center;
+    justify-content: center;
+    border-radius: 15px;
+    height: 75vh;
+    width: 70vh;
+}
+h1{
+    color: #708090;
+}
+hr{
+    border-top: 1px solid #FF5733 ;
+}
+input{
+    padding:5px;
+    margin: 2vh;
+    background-color: #FFE5B4;
+    border-image: linear-gradient(#FFE5B4,#FFE5B4);
+    box-shadow: none;
+    width:8cm;
+}
+img{
+    align-items: center;
+    justify-content: center;
+    border-radius: 15px;
+    /* margin-top: 10%; */
+    height: 75vh;
+    width: 70vh;
+    float: left;
+}
+.container{
+    background-color: #FFE5B4;
+    margin-top: 5%;
+}
